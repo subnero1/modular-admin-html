@@ -19,6 +19,7 @@ config.paths.vendor = {
 	scripts: [
 		npmDir + '/jquery/dist/jquery.js',
 		npmDir + '/jquery-sparkline/jquery.sparkline.js',
+		npmDir + '/jquery.browser/dist/jquery.browser.js',
 		npmDir + '/metismenu/dist/metisMenu.js',
 		npmDir + '/nprogress/nprogress.js',
 		npmDir + '/bootstrap/dist/js/bootstrap.js',
