@@ -22,6 +22,7 @@ config.paths.vendor = {
 		npmDir + '/jquery.browser/dist/jquery.browser.js',
 		npmDir + '/metismenu/dist/metisMenu.js',
 		npmDir + '/nprogress/nprogress.js',
+		npmDir + '/popper.js/dist/umd/popper.js',
 		npmDir + '/bootstrap/dist/js/bootstrap.js',
 	],
 	styles: [
